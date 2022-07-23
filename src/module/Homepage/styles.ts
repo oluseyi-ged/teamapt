@@ -1,8 +1,8 @@
 import styled from "styled-components"
 
 const Container = styled.div`
-  @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
-  @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+  /* @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap"); */
 
   display: flex;
   flex-direction: column;
