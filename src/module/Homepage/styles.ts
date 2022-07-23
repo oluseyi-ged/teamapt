@@ -98,7 +98,6 @@ const Container = styled.div`
     );
     border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.125);
-    /* width: fit-content; */
     width: 25.5%;
     height: fit-content;
     color: #fff;
